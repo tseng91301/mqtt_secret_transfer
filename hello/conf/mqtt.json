@@ -1,0 +1,5 @@
+{
+    "server": "broker.emqx.io",
+    "port": 1883,
+    "topic": "_secret"
+}
